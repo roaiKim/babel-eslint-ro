@@ -22,7 +22,7 @@ npm install --save-dev eslint-config-ro
 ```
 ---
 ## 完整的规则如下
-```json
+```javascript
 {
     "parser": "babel-eslint",
     "env": {
