@@ -3,12 +3,12 @@
 ---
 ## 使用
 ```bash
-npm install --save-dev eslint-config-zhongan
+npm install --save-dev eslint-config-ro
 ```
 ## 然后在你自己的eslint的配置文件上引入
 ```javascript
 "extends": [
-    "zhongan"
+    "ro"
 ]
 ```
 ---

@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-zhongan",
+  "name": "eslint-config-ro",
   "version": "0.1.0",
-  "description": "eslint eslintconfig zhangan eslint-config",
+  "description": "eslint eslintconfig ro eslint-config",
   "main": "index.js",
   "author": "ro",
   "license": "MIT",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/doasync/eslint-config-airbnb-standard.git"
+    "url": "https://github.com/roaiKim/babel-eslint-ro.git"
   },
   "keywords": [
     "eslint",
     "eslintconfig",
-    "zhangan",
+    "ro",
     "eslint-config"
   ],
   "dependencies": {
