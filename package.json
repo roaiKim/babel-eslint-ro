@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ro",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "eslint eslintconfig ro eslint-config",
   "main": "index.js",
   "author": "ro",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/roaiKim/babel-eslint-ro.git"
+    "url": "https://github.com/roaiKim/eslint-config-ro.git"
   },
   "keywords": [
     "eslint",
