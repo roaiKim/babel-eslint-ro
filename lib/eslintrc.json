@@ -48,6 +48,8 @@
         "no-multi-spaces": "error",
         "array-bracket-spacing": "error",
         "comma-spacing": "error",
-        "space-unary-ops": "error"
+        "space-unary-ops": "error",
+        "eol-last": "error",
+        "lines-around-comment": ["error", {"beforeLineComment": true}]
     }
 }
