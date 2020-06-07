@@ -73,7 +73,9 @@ npm install --save-dev eslint-config-ro
         "no-multi-spaces": "error", // 禁止使用多个空格 s
         "array-bracket-spacing": "error", // 强制数组方括号中使用一致的空格 s
         "comma-spacing": "error", // 强制在逗号后使用一致的空格 s
-        "space-unary-ops": "error" // 强制在一元操作符前后使用一致的空格 s
+        "space-unary-ops": "error", // 强制在一元操作符前后使用一致的空格 s
+        "eol-last": "error", // 在文件末尾多一行
+        "lines-around-comment": ["error", {"beforeLineComment": true}] // 行注释前面需要空行
     }
 }
 ```
