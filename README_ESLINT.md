@@ -301,6 +301,6 @@ npm adduser
 npm publish
 ```
 ```bash
-npm set registry https://npm.zhonganonline.com
+npm set registry https://npm.XXXXonline.com
 ```
 
