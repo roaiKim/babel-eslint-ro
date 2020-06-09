@@ -274,6 +274,19 @@ yarn add eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser -D
 }
 ```
 ---
+##  7️⃣ 项目新增脚本 🐻🐼
+```javascript
+"scripts": {
+    "eslint": "./node_modules/.bin/eslint src",
+    "eslint:fix": "./node_modules/.bin/eslint --fix src"
+}
+```
+> eslint 用于查询项目中不符合eslint的文件
+
+> eslint:fix 会帮你修复能自动修复的
+
+> 还可以配合 pre-commit 实现提交预检查
+---
 ### 🤡 遇到的坑 🙈
 ##### js项目的eslint问题 🐸
 > ❶ 由于eslint的默认解析器不支持新语法(如class的属性) 所以需要用别的解析器(AST)
